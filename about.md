@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Information, and introduction to B. F. as a person
 
-### More Information
+### A description of the site
 
-A place to include any other types of information that you'd like to include about yourself.
+Talking about what kind of writing you want to do here on the site, and what the site is all about.
 
-### Contact me
+### Contact Information
 
 [email@domain.com](mailto:email@domain.com)
